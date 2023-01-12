@@ -1,0 +1,33 @@
+v1,v2,v3,v4,v5,v6,v7,v8,Result
+33,1,1,45,6,200,65,80,Transient ischemic stroke
+55,0,0,66,9,256,88,99,Ischemic stroke
+77,1,1,87,5,222,142,151,Ischemic stroke
+55,1,1,55,2,155,121,200,Ischemic stroke
+66,1,1,56,8,239,139,122,Ischemic stroke
+89,1,0,88,5,240,120,222,Ischemic stroke
+78,1,1,77,6,355,91,99,Hemorrhagic stroke
+98,0,1,66,9,321,88,92,Ischemic stroke
+65,1,1,55,1,144,140,88,Ischemic stroke
+56,0,0,98,2,265,155,166,Ischemic stroke
+66,0,1,66,9,222,88,92,Ischemic stroke
+65,1,1,88,1,155,140,88,Hemorrhagic stroke
+53,0,0,55,2,239,155,166,Transient ischemic stroke
+43,1,1,56,6,240,65,80,Hemorrhagic stroke
+55,0,0,88,9,355,88,99,Ischemic stroke
+49,1,1,65,5,321,142,151,Hemorrhagic stroke
+39,1,1,66,2,144,121,200,Transient ischemic stroke
+52,1,1,60,8,265,139,122,Transient ischemic stroke
+48,1,0,98,5,240,120,222,Ischemic stroke
+39,1,1,98,6,355,91,99,Transient ischemic stroke
+58,0,1,45,9,321,88,92,Ischemic stroke
+69,1,1,66,1,144,140,88,Ischemic stroke
+50,0,0,87,2,265,155,166,Hemorrhagic stroke
+51,1,1,55,6,200,65,80,Hemorrhagic stroke
+43,0,0,56,9,256,88,99,Hemorrhagic stroke
+62,1,1,88,5,222,142,151,Ischemic stroke
+68,1,1,77,2,155,121,200,Ischemic stroke
+67,1,1,66,8,239,139,122,Ischemic stroke
+69,1,0,55,5,240,120,222,Ischemic stroke
+45,1,1,98,6,355,91,99,Hemorrhagic stroke
+50,0,1,45,9,321,88,92,Ischemic stroke
+59,1,1,66,1,144,140,88,Ischemic stroke
