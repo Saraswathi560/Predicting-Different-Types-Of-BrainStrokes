@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from DBConnection import DBConnection
 
-class Bar:
+class performance:
     @staticmethod
     def main():
 
